@@ -1,5 +1,9 @@
 # Tableau-Challenge
 
+# Summary:
+* From the citi bike page, 2019 and 2020 JC_citibike_tripdata is taken and made into one CSV file using jupyter notebook. 
+* The combined CSV file is read using the TABLEAU which is used for creating the Visualizations, Dashboards and Stories.
+
 # Data:
 The data used for this project were collected from Citi Bike Data, The data includes following information:
 * Trip Duration (Avg/min)
