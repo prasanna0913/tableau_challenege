@@ -1,19 +1,19 @@
-# tableau_challenege
+# Tableau-Challenge
 
 # Data:
 The data used for this project were collected from Citi Bike Data, The data includes following information:
-•	Trip Duration (Avg/min)
-•	Start Time and Date
-•	Stop Time and Date
-•	Start Station Name
-•	End Station Name
-•	Station ID
-•	Station Lat/Long
-•	Bike ID
-•	User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-•	Gender (1=male; 2=female)
-•	Year of Birth
-•	Age (as of 2021)
+* Trip Duration (Avg/min)
+*	Start Time and Date
+*	Stop Time and Date
+*	Start Station Name
+*	End Station Name
+*	Station ID
+*	Station Lat/Long
+*	Bike ID
+*	User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+*	Gender (1=male; 2=female)
+*	Year of Birth
+*	Age (as of 2021)
 
 # Visualizations:
 •	Popular stations to Begin Ride.
