@@ -30,18 +30,19 @@ The data used for this project were collected from Citi Bike Data, The data incl
 *	User type Vs Gender
 
 # Data Cleaning:
-Considered 2019 and 2020 JC_Citbikes_data. 
-Combined the csv files in the Jupyter notebook.
-While cleaning up the combined CSV file, removed the data where gender is read as Unknown. Then the complete file is read into the tableau. 
+* Considered 2019 and 2020 JC_Citibike_tripdata. 
+* Combined the csv files in the Jupyter notebook.
+* While cleaning up the combined CSV file, removed the data where gender is read as Unknown. 
+* Then the complete file is read into the tableau. 
 
 The task in this project is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard that can answer the following questions:
 
 # What are the peak hours in which bikes are used during summer months?
 Number of rides for each Month broken down by time(hour) and Year (2019 & 2020). Color shows details about Year. The marks are labeled by number of rides. The view is filtered on Month, which keeps June, July, and August.
-images
+![Morning_hours](Images/summer_hours_morning.PNG)
 Inference: When we look at the plot, the most preferred morning hours for the rides are between 7AM to 9AM. Peak hours are at 8AM.
 Of the three months, maximum number of rides(5,237 ) were noticed in the month of August. 
-image
+![Evening_hours](Images/summer_hours_evening.PNG)
 In the Evening, the most selected hours for the rides are between 5PM to 7PM. The peak hours are at 6PM.
 Of the three months, maximum number of rides(4,926) were noticed in the month of August. 
 
