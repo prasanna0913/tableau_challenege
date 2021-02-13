@@ -1,29 +1,33 @@
-# tableau_challenege
+# Tableau-Challenge
+
+# Summary:
+* From the citi bike page, 2019 and 2020 JC_citibike_tripdata are considered and combined into one CSV file using jupyter notebook. 
+* The combined CSV file is read using the TABLEAU which is used for creating the Visualizations, Dashboards and Stories.
 
 # Data:
 The data used for this project were collected from Citi Bike Data, The data includes following information:
-•	Trip Duration (Avg/min)
-•	Start Time and Date
-•	Stop Time and Date
-•	Start Station Name
-•	End Station Name
-•	Station ID
-•	Station Lat/Long
-•	Bike ID
-•	User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-•	Gender (1=male; 2=female)
-•	Year of Birth
-•	Age (as of 2021)
+*   Trip Duration (Avg/min)
+*	Start Time and Date
+*	Stop Time and Date
+*	Start Station Name
+*	End Station Name
+*	Station ID
+*	Station Lat/Long
+*	Bike ID
+*	User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+*	Gender (1=male; 2=female)
+*	Year of Birth
+*	Age (as of 2021)
 
 # Visualizations:
-•	Popular stations to Begin Ride.
-•	Popular stations to End Ride.
-•	Peak hours of Ride-summer months 
-•	Average trip duration Vs Age
-•	Number of Rides Vs Age
-•	Avg Trip duration Vs Gender 
-•	Avg Trip duration Vs Age & Gender
-•	User type Vs Gender
+*	Popular stations to Begin Ride.
+*	Popular stations to End Ride.
+*	Peak hours of Ride-summer months 
+*	Average trip duration Vs Age
+*	Number of Rides Vs Age
+*	Avg Trip duration Vs Gender 
+*	Avg Trip duration Vs Age & Gender
+*	User type Vs Gender
 
 # Data Cleaning:
 Considered 2019 and 2020 JC_Citbikes_data. 
