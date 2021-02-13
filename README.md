@@ -16,19 +16,21 @@ The data used for this project were collected from Citi Bike Data, The data incl
 *	Age (as of 2021)
 
 # Visualizations:
-•	Popular stations to Begin Ride.
-•	Popular stations to End Ride.
-•	Peak hours of Ride-summer months 
-•	Average trip duration Vs Age
-•	Number of Rides Vs Age
-•	Avg Trip duration Vs Gender 
-•	Avg Trip duration Vs Age & Gender
-•	User type Vs Gender
+*	Popular stations to Begin Ride.
+*	Popular stations to End Ride.
+*	Peak hours of Ride-summer months 
+*	Average trip duration Vs Age
+*	Number of Rides Vs Age
+*	Avg Trip duration Vs Gender 
+*	Avg Trip duration Vs Age & Gender
+*	User type Vs Gender
+
 
 # Data Cleaning:
-Considered 2019 and 2020 JC_Citbikes_data. 
-Combined the csv files in the Jupyter notebook.
-While cleaning up the combined CSV file, removed the data where gender is read as Unknown. Then the complete file is read into the tableau. 
+* Considered 2019 and 2020 JC_Citibike_tripdata. 
+* Combined the csv files in the Jupyter notebook.
+* While cleaning up the combined CSV file, removed the data where gender is read as Unknown. 
+* Then the complete file is read into the tableau. 
 
 The task in this project is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard that can answer the following questions:
 
