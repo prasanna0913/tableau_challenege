@@ -90,7 +90,7 @@ When we look at the plot of number of rides Vs age, number of rides are more for
 
 # Estimating the number of rides for Users (Customer or subscriber) Vs Gender?
 
-image
+![usertype_gender](Images/usertype_gender.PNG)
 
 Of the total number of rides, visualization shows that subscriber rides are more than customer rides. However, number of rides for males are more than females. 
 Solution: 
