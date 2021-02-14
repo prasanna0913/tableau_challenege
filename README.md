@@ -41,12 +41,10 @@ The task in this project is to aggregate the data found in the Citi Bike Trip Hi
 ![start_stations](Images/start_stations.PNG)
 ![end_stations](Images/end_stations.PNG)
 
-From the above plots, its clear that the most popular start station and the end station is the "Grove St Path" to start and end the rides.
-Probably this is a big station with more of citi bikes available for rides.
+From the above plots, its clear that "Grove St Path" is the most popular start station and the end station to start and end their rides.
+Probably this is a big station with more number of citi bikes available for rides.
 
 Solution: Few stations have less than 10 rides. These stations should be promoted by publishing adds or can encourage the riders by offering discounts.
-
-
 
 # What are the peak hours in which bikes are used during summer months?
 Number of rides for each Month broken down by time(hour) and Year (2019 & 2020). Color shows details about Year. The marks are labeled by number of rides. The view is filtered on Month, which keeps June, July, and August.
