@@ -58,22 +58,22 @@ Comfortable time for the Rides are 8AM and 6PM.
 
 Active participants are males. But the total trip durations are on the higher side for females. 
 
-picture
+![summer_rides](Images/summer_rides_gender.PNG)
 
 Looking at the plot, females have greater trip duration than males. 
 The graph is plotted across the summer months (June, July, August) for the years 2019 and 2020.
 In Spite Of the pandemic situation in 2020, rides are more in 2020 than in 2019 for both males and females. 
 
-picture
+![rides_gender](Images/gender_VS_ride.PNG)
 
 Considering the total number of rides, female have a smaller number of rides than males.
-images
+![rides_age_gender](Images/avg_td_age_gender.PNG)
 
 Though the number of rides for females is less than males, their duration of rides are high. Seems that trip duration was decreasing with increase in age. Age 20 and under category has greater trip durations. 
 
 # How does the average trip duration change by age?
 
-Picture
+![trip_duration_VS_age](Images/trip_dur_age.PNG)
 
 The plot of Avg Trip duration(min) against Age(yrs). Color shows details about age (group). The view is filtered on age, which ranges from 17 to 70.
 
@@ -81,7 +81,7 @@ The plot of Avg Trip duration(min) against Age(yrs). Color shows details about a
 He average trip duration is more for the riders with the age group of 17yrs to 22yrs.
 Surprisingly, avg trip duration is on higher end for people with 52yrs age group. 
 
-image
+![rides_VS_age](Images/rides_VS_age.PNG)
 
 When we look at the plot of number of rides Vs age, number of rides are more for people who are above 25yrs of age. Interesting part of the plot is that people of age 52yrs are enjoying the citi bike rides, as their total number is on the higher end. 
 
