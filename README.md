@@ -95,12 +95,8 @@ When we look at the plot of number of rides Vs age, number of rides are more for
 Of the total number of rides, visualization shows that subscriber rides are more than customer rides. However, number of rides for males are more than females. 
 Solution: 
 
-
-
-
 # Setup:
-*	There was no specific setup done to work with leaflet.
-*	Visual studio code was used to write the index.html, logic.js.
+*	Tableau public is used to develop the visualizations
 
 # Status
 Project is finished
